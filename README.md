@@ -7,4 +7,6 @@ Wryser, Is A Gorilla Tag Mod Creator. If You Would Like To Join His Discord Link
 
 *All Reveiws Will Have Youtube Videos Link , And A Image Below*
 
-**Lets Start With The Paid Mods**
+**Lets Start With The Paid Mods:**
+
+# GORILLA MENU:
