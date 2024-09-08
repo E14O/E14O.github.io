@@ -7,7 +7,7 @@ Wryser, Is A Gorilla Tag Mod Creator. If You Would Like To Join His Discord Link
 
 *All Reveiws Will Have Youtube Videos Link , And A Image Below*
 
-**Lets Start With The Not Paid Mods:**
+**Lets Start With The Free Mods:**
 
 # Gorilla Menu:
 **Gorilla Menu, Is A Mod That Allows You To Use Wrsyers Other Mods Through One Sytem, A Pop Up Menu! : When You Press B On Your Left Controller The Menu Appears. Navigate Through The Menu By Using Your Triggers!**
