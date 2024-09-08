@@ -24,3 +24,6 @@ Image Of The Mod:(Taken By Wrsyer)
 # Custom Cosmetics:
 **This Mod Requires Banana OS: [Download](https://github.com/HuskyGT/Banana-OS/releases/tag/1.0.7) And [Discord Server](https://discord.gg/bananaos)**
 
+**This Mod Allows You To Equipt Cosmetics Through Banana OS, Hats , Badges And Materials You Can Make And Post It In Wrysers Server**
+
+
