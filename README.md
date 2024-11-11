@@ -1,29 +1,39 @@
-**Wrysers Mod Review**
+**How To Install BelpinEX Gorilla **
 
-Wryser, Is A Gorilla Tag Mod Creator. If You Would Like To Join His Discord Link Is Here: [Server](https://discord.gg/Ej3YUXduf5)
+First Install BelpinEX [BelpinEX](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)
+Install The Verison You Need.
 
-**Paid Mods** Will Be Here To Purchase: [Patreon](https://www.patreon.com/wryser)
-#### To Gain Access To These Mods You MUST Be In His Discord Linked Above.
+Go To Your Downloads Folder, Find The BelpinEx And Extract(Un-Zip) The Folder.
+Delete The Zip Folder As You Now Have A Unzipped One.
 
-*All Reviews Will Have Youtube Videos Link , And A Image Below*
+Now Follow This Path: C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag
 
-**Lets Start With The Free Mods:**
+Inside That Gorilla Tag Folder Do The Following:
 
-# Gorilla Menu:
-**Gorilla Menu, Is A Mod That Allows You To Use Wrsyers Other Mods Through One System, A Pop Up Menu! : When You Press B On Your Left Controller The Menu Appears. Navigate Through The Menu By Using Your Triggers!**
+- Open The BelpinEx Folder You Extracted, Drag All The Contents Inside Your Gorilla Tag Folder.
 
-Image Of The Mod:(Taken By Wrsyer)
-![WrysersGorillaMenu](https://github.com/user-attachments/assets/b8336405-3302-4746-89f2-e279ef462765)
+After That, Open The BelpinEX Folder And Make A New Folder Called Plugins.
+Inside That Folder You Add Your Gorilla Tag Mods You Want To Use (NO CHEATS)
 
-**Also, Watch This Youtube Video To See How The Menu Works In-Game [Video]()**
+[Utilla](https://github.com/developer9998/Utilla/releases/tag/1.0.0.0) Is A Key Gorilla Tag Mod! Utilla Allows You To Join Modded Lobbys!
+[Exenject](https://github.com/Mathijs-Bakker/Extenject/releases/tag/9.2.1) This Is One Of The "Core Mods" This Makes Your Mods Work!
+[Bepinject](https://github.com/Auros/Bepinject/releases) This Is Another "Core Mod"!
 
-*Link To Download: [Downlaod](https://github.com/wryser/Gorilla-Menu/releases/tag/1.0.0)*
+To Install Folders Unzip Them And Drag The Unzipped FOLDER Into Your Plugins.
+ 
+Make Sure To Put Those 3 In Your Plugins!
 
-**This Mod Is A 9/10 Could Be better But It Supports Most Of His Other Mods Coming Up.**
+Did That Not Work? 
+Watch This Tut: [Tut By H4RNS](https://youtu.be/XZgloQNDDEE?si=pURwWf7CsJM8pmye)
+Then Install The "Core Mods"
 
-# Custom Cosmetics:
-**This Mod Requires Banana OS: [Download](https://github.com/HuskyGT/Banana-OS/releases/tag/1.0.7) And [Discord Server](https://discord.gg/bananaos)**
+MOD SUGGESTION:
 
-**This Mod Allows You To Equipt Cosmetics Through Banana OS, Hats , Badges And Materials You Can Make And Post It In Wrysers Server**
+Banana OS:
+
+A Watch Type Mod:
+
+[Install](https://github.com/HuskyGT/Banana-OS/releases/tag/1.0.8)
+[Discord](https://discord.gg/gr3JZqXYd7)
 
 
